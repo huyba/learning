@@ -1,0 +1,14 @@
+To install mpich2 on laptop:
+
+1. Download the mpi library from http://www.mpich.org/downloads/versions/
+Current verion is mpich-3.1.3
+
+2. Extract the tar file.
+
+3. To install:
+export "ac_cv_tls=none"
+./configure --enable-shared --prefix=/usr/local/mpich2
+make
+make install
+
+4. You need to include the /usr/local/mpich2/include and one of mpilib in your Makefile - see the Makefile
