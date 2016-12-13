@@ -1,0 +1,5 @@
+This is a plan for 12 weeks learning of Machine learning
+Week 1: Install machine and software: done.
+Week 2: Write simple machine learning algorithm, run it using CPU.
+Week 3: Convert code to run it in GPU.
+Week 4: 
