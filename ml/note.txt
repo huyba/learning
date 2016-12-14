@@ -11,3 +11,5 @@ Week 9-12: Join a Kaggle project.
 
 Follow course 229 @ Standford
 Aslo follow UFLDl Tutorial http://ufldl.stanford.edu/tutorial/
+- Linear regression
+- 
