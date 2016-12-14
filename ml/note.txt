@@ -1,5 +1,13 @@
 This is a plan for 12 weeks learning of Machine learning
 Week 1: Install machine and software: done.
+	- Setup ubuntu
+	- Install: tensorflow, torch, theano.
+	- Remaining: caffe, cntk.
 Week 2: Write simple machine learning algorithm, run it using CPU.
+	- Read basic of machine learning and deep learning
+	- Read blogs.
 Week 3: Convert code to run it in GPU.
-Week 4: 
+Week 9-12: Join a Kaggle project.
+
+Follow course 229 @ Standford
+Aslo follow UFLDl Tutorial http://ufldl.stanford.edu/tutorial/
