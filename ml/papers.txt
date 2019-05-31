@@ -1,1 +1,2 @@
 https://github.com/terryum/awesome-deep-learning-papers
+https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html
